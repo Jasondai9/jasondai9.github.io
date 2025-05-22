@@ -16,6 +16,8 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 highlightCurrentMenuArea = "Enable"
+defaultBackgroundImage = "terminal.jpg"
+defaultFeaturedImage = "terminal.jpg"
 
 [header]
 layout = "fixed-fill-blur"
@@ -36,6 +38,7 @@ showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
+homepageImage = "terminal.jpg"
 
 [article]
 showDate = true
