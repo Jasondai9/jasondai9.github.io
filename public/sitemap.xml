@@ -21,7 +21,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/background/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
