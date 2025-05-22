@@ -10,6 +10,8 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 description = "Jason Dai's profile"
+logo = "icon.png"
+secondaryLogo = "icon.png"
 
 ["params.author"]
 name = "Jason Dai"

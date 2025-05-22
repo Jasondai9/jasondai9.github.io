@@ -1,6 +1,6 @@
-colorScheme = "noir"
-defaultAppearance = "light"
-autoSwitchAppearance = true
+colorScheme = "fire"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = false
 replyByEmail = false
@@ -18,6 +18,8 @@ rssnext = { }
 highlightCurrentMenuArea = "Enable"
 defaultBackgroundImage = "terminal.jpg"
 defaultFeaturedImage = "terminal.jpg"
+smartTOC = "Enable"
+smartTOCHideUnfocusedChildren = "Enable"
 
 [header]
 layout = "fixed-fill-blur"
@@ -31,7 +33,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = true
+showRecent = false
 showRecentItems = 5
 showMoreLink = true
 showMoreLinkDest = "/projects/"
@@ -48,7 +50,7 @@ showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
 showHero = true
-layoutBackgroundBlur = true
+layoutBackgroundBlur = ""
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
 showDraftLabel = true
@@ -56,18 +58,18 @@ showEdit = false
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
-showPagination = true
+showPagination = false
 invertPagination = false
-showReadingTime = true
+showReadingTime = "Hide"
 showTableOfContents = true
 showTaxonomies = false
-showAuthorsBadges = false
+showAuthorsBadges = "hide"
 showWordCount = false
 showZenMode = true
 heroStyle = "background"
 
 [list]
-showHero = false
+showHero = "Show"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = true
@@ -81,6 +83,7 @@ groupByYear = true
 cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
+heroStyle = "background"
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
