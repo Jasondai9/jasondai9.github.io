@@ -14,3 +14,5 @@ description = "Jason Dai's profile"
 ["params.author"]
 name = "Jason Dai"
 headline = ""
+image = "Jason Dai-thermofisher (face square).jpg"
+bio = "I am a bioinformatics scientist, software developer, and data scientist passionate about leveraging AI and advanced computing to create innovative solutions across bioinformatics and fintech domains."

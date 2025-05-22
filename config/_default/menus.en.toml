@@ -3,31 +3,31 @@ none = "none"
 
 [[main]]
 name = "Background"
-pageRef = "background_page"
+pageRef = "background"
 identifier = "xaO6otvm0d"
 weight = 2
 
 [[main]]
 name = "Home"
-pageRef = "home_page"
+pageRef = "/"
 identifier = "rcBfg1tgSs"
 weight = 1
 
 [[main]]
 name = "Experience"
-pageRef = "experience_page"
+pageRef = "experience"
 identifier = "4vpp11z6PV"
 weight = 3
 
 [[main]]
 name = "Projects"
-pageRef = "projects_page"
+pageRef = "projects"
 identifier = "LYFWxTDyvs"
 weight = 4
 
 [[main]]
 name = "Contact"
-pageRef = "contact_page"
+pageRef = "contact"
 identifier = "rezxHgyr5M"
 weight = 9_999
 
