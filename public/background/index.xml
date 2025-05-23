@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Background on Jason Dai</title>
-    <link>http://localhost:54432/background/</link>
+    <link>http://localhost:1313/background/</link>
     <description>Recent content in Background on Jason Dai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Jason Dai</copyright>
-    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54432/background/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/background/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
