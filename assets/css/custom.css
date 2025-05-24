@@ -4,16 +4,12 @@
     display: flex;
     justify-content: space-between; /* Pushes items to opposite ends */
     align-items: baseline;        /* Aligns text nicely on the baseline */
-    margin-bottom: 0.5em;         /* Adds a small gap below each line */
+    /*margin-bottom: 0.5em;         /* Adds a small gap below each line */
     flex-wrap: wrap;              /* Allows wrapping on smaller screens */
 }
 
 .resume-line .school-name {
-    font-weight: bold;
-    font-size: 1.1em;
 }
 
 .resume-line .date-attended {
-    font-style: italic;
-    color: #666;
 }
