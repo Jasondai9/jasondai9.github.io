@@ -13,11 +13,11 @@ Hello! I'm Jason Dai, a bioinformatics scientist at Thermo Fisher Scientific wor
 
 <div class="resume-line">
     <span class="school-name"><b>Carnegie Mellon University</b></span>
-    <span class="date-attended">Pittsburgh, PA</span>
+    <span class="location">Pittsburgh, PA</span>
 </div>
 <div class="resume-line">
-    <span class="school-name text-neutral-500">M.S. in Computational Biology</span>
-    <span class="date-attended text-neutral-500">Aug 2021 – Dec 2022</span>
+    <span class="degree text-neutral-500">M.S. in Computational Biology</span>
+    <span class="date text-neutral-500">Aug 2021 – Dec 2022</span>
 </div>
 <ul>
   <li>Gained expertise in the theory and application of cutting-edge machine learning and AI paradigms, including deep learning architectures (neural networks, transformers), Hidden Markov Models (HMMs), and reinforcement learning.</li>
@@ -29,11 +29,11 @@ Hello! I'm Jason Dai, a bioinformatics scientist at Thermo Fisher Scientific wor
 
 <div class="resume-line">
     <span class="school-name"><b>University of California - San Diego</b></span>
-    <span class="date-attended">San Diego, CA</span>
+    <span class="location">San Diego, CA</span>
 </div>
 <div class="resume-line">
-    <span class="school-name text-neutral-500">B.S. in Bioengineering: Bioinformatics</span>
-    <span class="date-attended text-neutral-500">Aug 2017 – June 2021</span>
+    <span class="degree text-neutral-500">B.S. in Bioengineering: Bioinformatics</span>
+    <span class="date text-neutral-500">Aug 2017 – June 2021</span>
 </div>
 <ul>
   <li>Developed a robust interdisciplinary foundation spanning core sciences (chemistry, organic chemistry, physics), advanced mathematics (linear algebra, statistics, advanced calculus), and the life sciences (genetics, molecular biology, biotechnology).</li>
