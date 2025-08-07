@@ -9,28 +9,6 @@ date: 2025-05-20
     >}}
 Hello! I'm Jason Dai, a bioinformatics scientist at Thermo Fisher Scientific working to reduce organ transplant rejection by designing better diagnostics. I work with small, non-technical teams to build out their bioinformatics software and analyses toolkits.
 
-## Education
-
-<div class="resume-line">
-    <span class="Position"><b>Carnegie Mellon University</b></span>
-    <span class="location">Pittsburgh, PA</span>
-</div>
-<div class="resume-line">
-    <span class="company text-neutral-500">M.S. in Computational Biology</span>
-    <span class="date text-neutral-500">Dec 2022</span>
-</div>
-&nbsp;
-
-<div class="resume-line">
-    <span class="position"><b>University of California - San Diego</b></span>
-    <span class="location">San Diego, CA</span>
-</div>
-<div class="resume-line">
-    <span class="company text-neutral-500">B.S. in Bioengineering: Bioinformatics; Minor in Biology</span>
-    <span class="date text-neutral-500">June 2021</span>
-</div>
-&nbsp;
-
 
 ## Experience
 
