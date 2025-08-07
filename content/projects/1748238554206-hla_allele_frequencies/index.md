@@ -1,6 +1,6 @@
 ---
 title: "Redistributed allele frequencies for CIWD 3.0.0"
-date: 2025-05-22
+date: 2025-05-01
 draft: false
 description: "A dataset for the HLA community designed for accuracy."
 tags: ["bioinformatics", "project", "hla"]

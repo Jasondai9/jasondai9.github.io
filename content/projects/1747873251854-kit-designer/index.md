@@ -1,6 +1,6 @@
 ---
 title: "Automatated HLA Typing Kit Designer with ML"
-date: 2023-05-31
+date: 2025-06-01
 draft: false
 description: "A work project where I designed a program that automates a previously labor intensive process."
 tags: ["bioinformatics", "project", "hla", "automation"]

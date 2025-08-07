@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Model for Probe Hybridization"
-date: 2023-05-31
+date: 2025-03-01
 draft: false
 description: "A work project where I trained a machine learning model for probe hybridization."
 tags: ["bioinformatics", "project", "hla", "machine learning", "ai"]
