@@ -9,6 +9,29 @@ date: 2025-05-20
     >}}
 Hello! I'm Jason Dai, a bioinformatics scientist at Thermo Fisher Scientific working to reduce organ transplant rejection by designing better diagnostics. I work with small, non-technical teams to build out their bioinformatics software and analyses toolkits.
 
+## Education
+
+<div class="resume-line">
+    <span class="Position"><b>Carnegie Mellon University</b></span>
+    <span class="location">Pittsburgh, PA</span>
+</div>
+<div class="resume-line">
+    <span class="company text-neutral-500">M.S. in Computational Biology</span>
+    <span class="date text-neutral-500">Dec 2022</span>
+</div>
+&nbsp;
+
+<div class="resume-line">
+    <span class="position"><b>University of California - San Diego</b></span>
+    <span class="location">San Diego, CA</span>
+</div>
+<div class="resume-line">
+    <span class="company text-neutral-500">B.S. in Bioengineering: Bioinformatics; Minor in Biology</span>
+    <span class="date text-neutral-500">June 2021</span>
+</div>
+&nbsp;
+
+
 ## Experience
 
 <div class="resume-line">
@@ -20,8 +43,11 @@ Hello! I'm Jason Dai, a bioinformatics scientist at Thermo Fisher Scientific wor
     <span class="date text-neutral-500">Aug 2022 – now</span>
 </div>
 <ul>
-  <li>Gained expertise in the theory and application of cutting-edge machine learning and AI paradigms, including deep learning architectures (neural networks, transformers), Hidden Markov Models (HMMs), and reinforcement learning.</li>
-
+  <li>Kept up-to-date with current trends and research in HLA, bioinformatics, AI, and computer science.</li>
+  <li>Applied cutting-edge machine learning and AI methods to develop software in the HLA field.</li>
+  <li>Supported other departments with bioinformatics analyses and software requests.</li>
+  <li>Developed software that automated existing processes, improving company efficiency.</li>
+  <li>Shared research with the HLA scientific community through publications, conference presentations, and online talks.</li>
 </ul>
 &nbsp;
 
